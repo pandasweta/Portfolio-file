@@ -13,8 +13,13 @@ h1 {
 }
 .left-bar {
   background-color: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
-  width: 800px;
-  height: 800px;
-  margin: 20px;
-  padding: 15px;
+  /* width: 200px; */
+
+  /* margin: 20px; */
+  /* padding: 15px; */
+}
+.items {
+  height: 980px;
+  padding: 5px;
+  width: 200px;
 }
